@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1 2.JPG"
+  avatar           : "github.JPG"
   name             : "Yelim Lee"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
