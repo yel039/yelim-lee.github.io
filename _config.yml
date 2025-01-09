@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "1 2.JPG"
   name             : "Yelim Lee"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
